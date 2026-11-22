@@ -1,5 +1,4 @@
 # Retial_sales_Analyisis_PostgreSql
-# Retail Sales Analysis — SQL Project
 
 An end-to-end SQL project that explores retail transaction data with **PostgreSQL**: database setup, data import, data cleaning, and 10 business questions answered with SQL.
 
